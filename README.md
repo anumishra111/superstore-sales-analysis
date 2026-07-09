@@ -16,7 +16,7 @@ Excel (Pivot Tables, Data Cleaning, Charts, Dashboard Design)
 ## Dashboard
 
 
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot%202026-070-08%20220647.png)
 
 
 
